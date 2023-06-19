@@ -1,5 +1,30 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-adrg-xdg (0.4.0-2) unstable; urgency=medium
+
+  [ Thorsten Alteholz ]
+  * Import Debian changes 0.3.3-1
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + golang-github-adrg-xdg-dev: Add Multi-Arch: foreign.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Fri, 25 Nov 2022 00:36:52 +0000
+
+golang-github-adrg-xdg (0.4.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * reverse dependencies successfully built with ratt:
+    - sshesame
+    - pat
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Fri, 07 Jan 2022 00:04:12 +0100
+
+golang-github-adrg-xdg (0.3.3-2) unstable; urgency=medium
+
+  * upload source package
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Mon, 30 Aug 2021 19:37:11 +0200
+
+golang-github-adrg-xdg (0.3.3-1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Thorsten Alteholz <debian@alteholz.de>  Mon, 23 Aug 2021 20:48:30 +0000
